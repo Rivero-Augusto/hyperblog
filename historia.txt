@@ -2,7 +2,7 @@ Esta es la historia de Emanuel
 
 Estamos dando los primeros pasos en git.
 
-
+Hoy es estudiante de informática y trabajador a tiempo completo.
 
 
 
