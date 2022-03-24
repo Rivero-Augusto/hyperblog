@@ -1,1 +1,11 @@
 Esta es la historia de Emanuel
+
+Estamos dando los primeros pasos en git.
+
+
+
+
+
+
+
+
