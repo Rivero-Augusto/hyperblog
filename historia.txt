@@ -4,6 +4,7 @@ Estamos dando los primeros pasos en git.
 
 Hoy es estudiante de informática y trabajador a tiempo completo.
 
+Hablaremos de su vida y obra maestra.
 
 
 

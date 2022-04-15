@@ -1,0 +1,31 @@
+[33mcommit e5e9cd5928e90a1939a31958a21c368a807d55f3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: manu rivero <rivero.augusto9195@gmail.com>
+Date:   Thu Apr 14 22:30:46 2022 -0300
+
+    Arranco mi proyecto real con html y css
+
+[33mcommit bf3eee0c96237d75805e64d70733e30a392e0ddb[m
+Author: manu rivero <rivero.augusto9195@gmail.com>
+Date:   Thu Mar 24 00:44:14 2022 -0300
+
+    Agregamos un comentario nuevo de nuestra historia
+    
+    si apretamos dos enter cambia el color del mensaje
+
+[33mcommit 61137b6653521a892086346da24c0b165224c873[m
+Author: manu rivero <rivero.augusto9195@gmail.com>
+Date:   Thu Mar 24 00:22:27 2022 -0300
+
+    Agregamos un comentario en nuestra historia
+
+[33mcommit e3f173ee89ca5aae4ce119b9c7cd968026fced42[m
+Author: manu rivero <rivero.augusto9195@gmail.com>
+Date:   Fri Mar 11 23:58:45 2022 -0300
+
+    Cambio en el archivo de historia en el nombre
+
+[33mcommit d6db5703d652416fb7eb7cd6e33e1e40e9e6b9d7[m
+Author: manu rivero <rivero.augusto9195@gmail.com>
+Date:   Fri Mar 11 23:43:03 2022 -0300
+
+    Este es el primer commit de este archivo
